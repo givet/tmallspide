@@ -1,0 +1,2 @@
+toolPath=D:/1-wd/Huatone/拼多多上货助理/downloadPic
+handPath=D:/1-pdd
